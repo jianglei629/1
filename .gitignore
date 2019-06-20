@@ -1,19 +1,541 @@
-*.log
-wp-config.php
-wp-content/advanced-cache.php
-wp-content/backup-db/
-wp-content/backups/
-wp-content/blogs.dir/
-wp-content/cache/
-wp-content/upgrade/
-wp-content/uploads/
-wp-content/mu-plugins/
-wp-content/wp-cache-config.php
-wp-content/plugins/hello.php
 
-/.htaccess
-/license.txt
-/readme.html
-/sitemap.xml
-/sitemap.xml.gz
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<link href="image/certif2.gif" rel="shortcut icon">
+	<title>期刊/会议征稿在线</title>
+	<meta name="description" content="SCI期刊SCI期刊，EI期刊，SSCI期刊，EI会议，CPCI-s，CPCI-CCH，ISTP会议论文，IOP - Journal of Physics: Conference Series (JPCS)，SCI期刊SCI期刊，EI期刊，SSCI期刊，EI会议，CPCI-s，CPCI-CCH，ISTP会议论文会议征稿在线，自动化，通讯，建筑与材料国际会议，先进结构，材料与工程国际会议，智能自动化与创新工程材料科学，SCI期刊SCI期刊，EI期刊，SSCI期刊，EI会议，CPCI-s，CPCI-CCH，ISTP会议论文计算机，通讯国际会议，电气工程，机械工程和智能自动化，电子，管理，经济学，教育与社会科学国际研讨会议，人文社科，International Conference，International Conference on，International Conference on Automation, Communication,Basic & Clinical Pharmacology & Toxicology ">
+	<meta name="keywords" content="SCI期刊，EI期刊，SSCI期刊，EI会议，CPCI-s，CPCI-CCH，ISTP会议论文 International Conference，International Conference on，Advanced Structure,Automation，Electrical Engineering，EI检索国际会议，SCI期刊SCI期刊，EI期刊，SSCI期刊，EI会议，CPCI-s，CPCI-CCH，ISTP会议论文Mechanical Engineering，Electrical Engineering，Civil Engineering，Chemical Engineering，Systems engineering，Computer Science & Information Engineering，Humanities & Social Sciences，Applied Social Studies，Management Science，Information Management，Business Management，Innovation Management，Environmental Management，Resources & Environment Engineering，Engineering Management,Basic & Clinical Pharmacology & Toxicology" />
 
+	<meta name="description" content="International Engineering and Technology Research Center，IETR，REES 2018，EI检索会议.保证EI检索收录，EI期刊，SCI期刊，核心期刊，IOP - Journal of Physics: Conference Series (JPCS)，会议征稿在线，自动化，通讯，建筑与材料国际会议，先进结构SCI期刊SCI期刊，EI期刊，SSCI期刊，EI会议，CPCI-s，CPCI-CCH，ISTP会议论文，材料与工程国际会议，智能自动化与创新工程材料科学，计算机，通讯国际会议，电气工程，机械工程和智能自动化，电子，管理，经济学，教育与社会科学国际研讨会议，人文社科，International Conference，International Conference on，International Conference on Automation, Communication,Basic & Clinical Pharmacology & Toxicology,AIP Congerence Proceedings ,DEStech ,Atlantis Press ,ISSN: 2475-8841 ,ISSN: 2475-8868, ISSN: 2475-885X  , ISSN: 2475-8833 , ISSN: 2572-889X , IOP Conference Series: Earth and Environmental Science (EES) ,IOP - Journal of Physics: Conference Series (JPCS) 
+ "><meta name="keywords" content="International Engineering and Technology Research Center，REES 2018，SEI检索会议.保证EI检索收录，EI期刊，SCI期刊，核心期刊，International Conference，International Conference on，Advanced Structure,Automation，Electrical Engineering，EI检索国际会议，Mechanical Engineering，Electrical Engineering，Civil EngineeringSCI期刊SCI期刊，EI期刊，SSCI期刊，EI会议，CPCI-s，CPCI-CCH，ISTP会议论文，Chemical Engineering，Systems engineering，Computer Science & Information Engineering，Humanities & Social Sciences，Applied Social Studies，Management Science，Information Management，Business Management，Innovation Management，Environmental Management，Resources & Environment Engineering，Engineering Management,Basic & Clinical Pharmacology & Toxicology, AIP Congerence Proceedings ,DEStech ,Atlantis Press ,ISSN: 2475-8841 ,ISSN: 2475-8868, ISSN: 2475-885X  , ISSN: 2475-8833 , ISSN: 2572-889X , IOP Conference Series: Earth and Environmental Science (EES) ,IOP - Journal of Physics: Conference Series (JPCS) 
+" /><meta name="keywords" content="International Conference，International Conference on，Advanced Structure,Automation，Electrical Engineering，EI检索国际会议，Mechanical Engineering，Electrical Engineering，Civil Engineering，Chemical Engineering，Systems engineering，Computer Science & Information Engineering，Humanities & Social Sciences，Applied Social Studies，Management Science，Information Management，Business Management，Innovation Management，Environmental Management，Resources & Environment Engineering，Engineering Management,Basic & Clinical Pharmacology & Toxicology,AIP Congerence Proceedings ,DEStech ,Atlantis Press ,ISSN: 2475-8841 ,ISSN: 2475-8868, ISSN: 2475-885X  , ISSN: 2475-8833 , ISSN: 2572-889X , IOP Conference Series: Earth and Environmental Science (EES) ,IOP - Journal of Physics: Conference Series (JPCS)" /><meat content="EI检索会议.保证EI检索收录SCI期刊SCI期刊，EI期刊，SSCI期刊，EI会议，CPCI-s，CPCI-CCH，ISTP会议论文，EI期刊，SCI期刊，核心期刊，ei国际会议,ei检索,ei收录,EI国际会议,EI检索,EI收录,会议在线,学术会议,确保检索,检索协议,学术会议在线" name="keywords"> <meat content="EI检索会议.保证EI检索收录，EI期刊，SCI期刊，核心期刊，ei国际会议,ei检索,ei收录,EI国际会议,EI检索,EI收录,会议在线,学术会议,确保检索,检索协议,学术会议在线SCI期刊SCI期刊，EI期刊，SSCI期刊，EI会议，CPCI-s，CPCI-CCH，ISTP会议论文" name="description"> <meat content="DEStech ,Atlantis Press ,ISSN: 2475-8841 ,ISSN: 2475-8868, ISSN: 2475-885X  , ISSN: 2475-8833 , ISSN: 2572-889X , IOP Conference Series: Earth and Environmental Science (EES) ,IOP - Journal of Physics: Conference Series (JPCS) ,EI检索会议.保证EI检索收录，EI期刊，SCI期刊，核心期刊，IOP - Journal of Physics: Conference Series (JPCS)，会议征稿在线，自动化，通讯，建筑与材料国际会议，先进结构，材料与工程国际会议，智能自动化与创新工程材料科学，计算机，通讯国际会议，电气工程，机械工程和智能自动化，电子，管理，经济学，教育与社会科学国际研讨会议，人文社科，International Conference，International Conference on，International Conference on Automation, Communication,Basic &amp; Clinical Pharmacology &amp; Toxicology,AIP Congerence Proceedings ,DEStech ,Atlantis Press ,ISSN: 2475-8841 ,ISSN: 2475-8868, ISSN: 2475-885X , ISSN: 2475-8833 , ISSN: 2572-889X , IOP Conference Series: Earth and Environmental Science (EES) ,IOP - Journal of Physics: Conference Series (JPCS)International Conference，International Conference on，Advanced Structure,Automation，Electrical Engineering，EI检索国际会议，Mechanical Engineering，Electrical Engineering，Civil Engineering，Chemical Engineering，Systems engineering，Computer Science &amp; Information Engineering，Humanities &amp; Social Sciences，Applied Social Studies，Management Science，Information Management，Business Management，Innovation Management，Environmental Management，Resources &amp; Environment Engineering，Engineering Management,Basic &amp; Clinical Pharmacology &amp; Toxicology,AIP Congerence Proceedings ,DEStech ,Atlantis Press ,ISSN: 2475-8841 ,ISSN: 2475-8868, ISSN: 2475-885X , ISSN: 2475-8833 , ISSN: 2572-889X , IOP Conference Series: Earth and Environmental Science (EES) ,IOP - Journal of Physics: Conference Series,IEEE," name="keywords">
+<!--
+
+Template 2079 Garage
+<meta name="keywords" content="International Conference，International Conference on，Advanced Structure,Automation，Electrical Engineering，EI检索国际会议，Mechanical Engineering，Electrical Engineering，Civil Engineering，Chemical Engineering，Systems engineering，Computer Science & Information Engineering，Humanities & Social Sciences，Applied Social Studies，Management Science，Information Management，Business Management，Innovation Management，Environmental Management，Resources & Environment Engineering，Engineering Management,Basic & Clinical Pharmacology & Toxicology,AIP Congerence Proceedings ,DEStech ,Atlantis Press ,ISSN: 2475-8841 ,ISSN: 2475-8868, ISSN: 2475-885X  , ISSN: 2475-8833 , ISSN: 2572-889X , IOP Conference Series: Earth and Environmental Science (EES) ,IOP - Journal of Physics: Conference Series (JPCS)" />
+content="SCI期刊SCI期刊，EI期刊，SSCI期刊，EI会议，CPCI-s，CPCI-CCH，ISTP会议论文 ei国际会议,ei检索,ei收录,EI国际会议,EI检索,EI收录,会议在线,学术会议,确保检索,检索协议,学术会议在线"
+content="ei国际会议,ei检索,ei收录,EI国际会议,EI检索,EI收录,会议在线,学术会议,确保检索,检索协议,学术会议在线"SCI期刊SCI期刊，EI期刊，SSCI期刊，EI会议，CPCI-s，CPCI-CCH，ISTP会议论文
+http://www.researchi.org/
+
+--> <!--
+Atlantis Press出版社会议期刊 
+Advances in Economics, Business and Management Research  
+Advances in Intelligent Systems Research 
+Advances in Computer Science Research 
+Advances in Health Sciences Research 
+Advances in Social Science, Education and Humanities Research 
+Advances in Engineering Research 
+Advances in Biological Sciences Research 
+Advances in Physics Research 
+
+DEStech出版社 
+DEStech Transactions on Computer Science and Engineering, ISSN: 2475-8841  
+DEStech Transactions on Economics, Business and Management, ISSN: 2475-8868 
+DEStech Transactions on Engineering and Technology Research, ISSN: 2475-885X  
+DEStech Transactions on Environment, Energy and Earth Sciences, ISSN: 2475-8833 
+DEStech Transactions on Materials Science and Engineering, ISSN: 2572-889X  
+DEStech Transactions on Social Science, Education and Human Science, ISSN: 2475-0042 7)  
+DEStech Transactions on Biology and Health, ISSN Pending 
+
+英国皇家物理学会(IoP - Institute of Physics) 
+IOP Conference Series: Earth and Environmental Science (EES)  
+IOP - Journal of Physics: Conference Series (JPCS)
+
+CRC Press  TTP Press  IEEE CS (Computer Society) CPS  Springer出版社
+国际SCI期刊-IF 1.0以上 30篇 期刊议题：纤维聚合物、生物高分子、纤维产品及其制造、纺织产品、纺织技术,改性聚合物，纤维素衍生物
+国际SCI期刊-智能信息处理、计算机工程杂志   月刊  专刊（占正刊版面）  Impact Factor :2.4以上  中科院分类为二区  
+国际SCI期刊-图像处理、模式识别、人工智能工程杂志    双月刊   正刊发表   中科院分类为四区 Impact Factor :0.9左右   期刊质量好，稳定EI、SCI双检索杂志；
+国际SCI期刊-大数据杂志   季刊  专刊（占正刊版面）  Impact Factor :2.0以上  中科院分类为三区（年底左右可以进入中科院二区）
+国际SCI期刊-计算机、物联网期刊杂志   月刊  专刊（占正刊版面）  Impact Factor :0.9以上  中科院分类为四区  
+国际SCI期刊-无线通信与网络处理  月刊 专刊（占正刊版面） Impact Factor :0.70以上 中科院分类为四区   新一轮的征稿28篇
+国际SCI期刊-多媒体与图像处理   专刊（占正刊版面） 月刊  Impact Factor :1.30以上 中科院分类为三区  ；2017年新一轮的征稿30篇
+国际SCI期刊-能源科学工程杂志 正刊发表 月刊 Impact Factor: 2.4以上 中科院二区
+国际SCI期刊-先进材料科学工程杂志  月刊 正刊发表 中科院分类为二区 Impact Factor :1.8以上；
+国际SCI期刊-水研究与水科学技术杂志 正刊 季刊  Impact Factor：0.5以上 中科院分类为四区
+国际SCI期刊-农学与植物学杂志  正刊 季刊 Impact Factor：0.35以上 中科院分类为四区  
+国际SCI期刊-机械力学工程杂志  正刊发表  双月刊    Impact Factor :0.2以上
+国际SCI期刊-气象与水文国际期刊  月刊  正刊发表  Impact Factor :0.2以上 中科院分类为四区
+国际SCI期刊-土木、交通规划杂志 正刊发表  中科院分类为4区 双月刊 Impact Factor :0.5以内
+国际SCI期刊-分析化学杂志  月刊 正刊发表  Impact Factor :0.50左右 中科院分类为四区
+国际SCI期刊-复合材料科学与工程杂志  季刊  正刊发表 Impact Factor :0.5左右；
+国际SCI期刊-物理与化学工程杂志 双月刊  正刊发表 中科院分类为4区   Impact Factor :0.5以内；
+国际SCI期刊-低温科学杂志 正刊   Impact Factor :0.9左右 双月刊 中科院分类为4区
+国际SCI期刊-高分子科学与应用化学   正刊发表  月刊　Impact Factor :0.8以上   
+
+ 
+
+国际SCI期刊源医学、药学列表：
+国际SCI期刊-期刊议题：外科手术，妇科，泌尿学科，肠胃病科，神经外科，耳喉鼻科，心脏手术， 学和放射学（2017年8月1日新增）
+国际SCI期刊-微创技术方面的 10篇 检索稳定（2017年8月1日新增）
+国际SCI期刊-医药学工程杂志  增刊 （占正刊版面） 双月刊  Impact Factor :0.60以上 见刊时间确定录用后1个月左右见刊  此期刊检索快，录用率高，见刊快；中科院四区
+国际SCI期刊-神经科学与脑神经工程杂志  季刊  正刊发表  Impact Factor :0.7以上  中科院分类为四区  确定录用后及时安排见刊发表 ；
+国际SCI期刊源-环境化学、毒理学科学杂志 正刊发表 双月刊 Impact Factor：0.6以上
+国际SCI期刊-西方医学杂志  月刊  正刊发表 Impact Factor :0.5以内  中科院分类为4区  可以加急审稿，录用，见刊快发表，征稿30篇  
+国际SCI期刊-医药科学杂志  月刊 正刊发表   Impact Factor :0.6以上  中科院分为4区  可以加急审稿，见刊发表
+国际SCI期刊源- 细胞生理学和生物化学 正刊发表 Impact Factor：3.5以上  中科院2区
+国际SCI期刊-环境微生物学杂志   正刊  中科院分类为1区  月刊  Impact Factor :6.2以上  
+国际SCI期刊-环境微生物报告杂志  正刊   中科院分类为2区  双月刊  Impact Factor :3.2以上
+国际SCI期刊-微生物生物技术  正刊  中科院分类为3区  月刊  Impact Factor :3.0以上  
+国际SCI期刊-细胞生理学、生物化学杂志  正刊  中科院分类为3区  月刊  Impact Factor :2.8以上
+国际SCI期刊-生物化学杂志 正刊   中科院分类为4区 月刊   Impact Factor :1.3以上
+国际SCI期刊-心脏和血管疾病杂志  正刊  中科院分类为4区 双月刊 Impact Factor :0.5以内
+
+国际EI期刊-计算科学与工程杂志 季刊 正刊 EI检索正常 
+国际EI期刊-计算机科学与自动化控制杂志 双月刊 EI正刊 EI检索正常 
+国际EI期刊-生物技术与生物科学杂志 月刊 正刊 确定录用后就可以见刊 征稿35篇
+国际EI期刊-生物材料、生物医学工程杂志 月刊 正刊 确定录用后就可以见刊 征稿35篇
+国际EI期刊-纳米科学、纳米技术工程杂志 双月刊 正刊 统一提交以后3个月左右见刊
+国际EI期刊-传感器网络杂志 月刊 正刊 EI检索正常 统一提交后4个月左右见刊
+国际EI期刊-生物医学科学杂志 正刊 统一提交以后3个月见刊 征稿20篇 
+国际EI期刊-食品科学杂志 正刊 统一提交以后3个月见刊 征稿25篇 
+国际EI期刊-生物化学杂志 正刊 统一提交以后3个月见刊 征稿28篇 
+国际EI期刊-生物信息学与技术杂志 正刊 统一提交以后3个月见刊 征稿28篇 
+国际EI期刊-分子生物学杂志 正刊 统一提交以后 3个月见刊 征稿20篇
+国际EI期刊-信息科学杂志 季刊 正刊 EI检索正常
+国际EI期刊-电子电气工程杂志 月刊 正刊发表 3个月见刊 征稿28篇 
+--> 
+
+<!--
+
+Template 2079 Garage
+
+http://www.tooplate.com/view/2079-garage
+
+-->
+	<meta name="author" content="Web Domus Italia">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="source/bootstrap-3.3.6-dist/css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="source/font-awesome-4.5.0/css/font-awesome.css">
+	<link rel="stylesheet" type="text/css" href="style/slider.css">
+	<link rel="stylesheet" type="text/css" href="style/mystyle.css">
+</head>
+<body>
+<!-- Header -->
+<div class="allcontain">
+	<div class="header">
+			<ul class="socialicon">
+				<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+				<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+				<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+				<li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+			</ul>
+			<ul class="givusacall">
+				<li>Give us a call : +86 13212744212 </li>
+			</ul>
+			<ul class="logreg">
+				<li><a href="mailto:1422679111@qq.com" target="_blank"></li>
+				<li><a href="mailto:1422679111@qq.com" target="_blank"><span class="register">Email:1422679111@qq.com</span></a></li>
+			</ul>
+	</div>
+	<!-- Navbar Up -->
+	<nav class="topnavbar navbar-default topnav">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed toggle-costume" data-toggle="collapse" data-target="#upmenu" aria-expanded="false">
+					<span class="sr-only"> Toggle navigaion</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+			</div>	 
+		</div>
+		<div class="collapse navbar-collapse" id="upmenu">
+			<ul class="nav navbar-nav" id="navbarontop">
+			  <li></li>
+				
+			</ul>
+		</div>
+	</nav>
+</div>
+		<div style="text-align:center"><img src="image/2017.png" width="584" height="266"></div>
+
+<!-- ____________________Featured Section ______________________________--> 
+<div class="allcontain">
+	<div class="feturedsection">
+		<div id="carousel-up" class="carousel slide" data-ride="carousel">
+		  <div class="carousel-inner " role="listbox">
+		    <div class="item"> <img src="image/porche.jpg" alt="porche">
+		      <div class="carousel-caption">
+		        <h2>Porche</h2>
+		        <p>Lorem ipsum dolor sit amet, consectetur ,<br>
+		          sed do eiusmod tempor incididunt ut labore </p>
+	          </div>
+	        </div>
+		    <div class="item"> <img src="image/benz.jpg" alt="benz">
+		      <div class="carousel-caption">
+		        <h2>Car</h2>
+		        <p>Lorem ipsum dolor sit amet, consectetur ,<br>
+		          sed do eiusmod tempor incididunt ut labore </p>
+	          </div>
+	        </div>
+	      </div>
+	  </div>
+		<div style="text-align:center"></div>
+	  <h1 class="text-center"><span class="bdots">期刊/会议征稿在线</span></h1>
+	  <p>&nbsp;</p>
+		<p><span class="bdots"><strong><a href="http://wpa.qq.com/msgrd?v=3&uin=1422679111&site=qq&menu=yes" target="_blank"><img src="image/1422679111.png" width="687"></a></strong></span><img src="image/ietr.png" width="529" height="72" alt=""/></p>
+	</div>
+	<div class="feturedimage">
+	  <div class="row firstrow">
+	    <div class="col-lg-6 costumcol colborder1">
+				<div class="row costumrow">
+				  <p>&nbsp;</p>
+			      <p>&nbsp;</p>
+			      <p><a href="http://cn.cfp.edu.pl/ietrcenter/" title="exhibitors"><img src="image/plos.jpg" width="584" height="329" alt=""/></a></p>
+			      <p>&nbsp;</p>
+			      <p>&nbsp;</p>
+			      <p><strong><font color="darkblue"><font size="5">会议论文征稿(EI/ISTP)</font></font></strong></p>
+			      <p><br>
+			        <strong>Atlantis Press出版社会议期刊<br>
+			        Advances in Intelligent Systems Research (ISSN1951-6851)<br>
+			        Advances in Computer Science Research (ISSN 2352-538X)<br>
+			        Advances in Health Sciences Research (ISSN 2468-5739)<br>
+			        Advances in Economics, Business and Management Research (ISSN2352-5428)<br>
+			        Advances in Social Science, Education and Humanities Research (ISSN: 2352-5398)<br>
+			        Advances in Engineering Research (ISSN 2352-5401)<br>
+			        Advances in Biological Sciences Research (ISSN 2468-5747)<br>
+		          Advances in Physics Research  (ISSN 2352-541X)</strong></p>
+			      <p><strong>DEStech出版社<br>
+		          DEStech Transactions on Computer Science and Engineering, ISSN: 2475-8841<br>
+		          DEStech Transactions on Economics, Business and Management, ISSN: 2475-8868<br>
+		          DEStech Transactions on Engineering and Technology Research, ISSN: 2475-885X<br>
+		          DEStech Transactions on Environment, Energy and Earth Sciences, ISSN: 2475-8833<br>
+		          DEStech Transactions on Materials Science and Engineering, ISSN: 2572-889X<br>
+		          DEStech Transactions on Social Science, Education and Human Science, ISSN: 2475-0042 7)<br>
+		          DEStech Transactions on Biology and Health, ISSN Pending</strong></p>
+			      <p><strong>英国皇家物理学会(IoP – Institute of Physics)<br>
+		          IOP Conference Series: Earth and Environmental Science (EES)<br>
+		          IOP – Journal of Physics: Conference Series (JPCS)</strong></p>
+			      <p><strong>CRC Press  TTP Press  IEEE CS (Computer Society) CPS  Springer出版社<br>
+		          AIP Congerence Proceedings (ISSN: 0094-243X, E-ISSN: 1551-7616)<br>
+		          (Wiley Online Library出版社   )</strong></p>
+			      <p><strong>本中心的英文普刊信息：</strong><br>
+			        《International Core Journal of Engineering》 (ICJE)<br>
+			        ISSN: 2414-1895<br>
+			        《World Scientific Research Journal》（WSRJ）<br>
+			        ISSN: 2472-3703<br>
+			        《Journal of Computing and Electronic Information Management》(JCEIM)<br>
+			        ISSN: 2413-1660<br>
+			        《Computer Life》 (CPL)   ISSN: 1819-4818<br>
+			        本中心的VIP作者投稿英文普刊可以享受优惠<br>
+		          版面费用每篇给予最底版面费用价格400-500元/篇(VIP)  。</p>
+			      <p>普刊征稿连接:<a target="_blank" href="http://cn.cfp.edu.pl/journals/">http://cn.cfp.edu.pl/journals/</a></p>
+			      <p>1. 若干出版社的会议征稿，EI，cpci，cnki等检索(因出版社不同，文理不同，检索有所不同)；<br>
+			        2. 英文普刊征稿，谷歌学术等检索(无ei，sci检索)；<br>
+			        3. 部分会议主题的优秀稿件，可以推荐至SCI, EI检索的期刊发表(出版无会议信息)。<br>
+			        4. 投稿作者翻译服务；<br>
+		          5. 检索作者检索证明开具服务；</p>
+			      <p>&nbsp;</p>
+                  <p><a target="_blank" href="http://cn.cfp.edu.pl/journals/"><img src="image/hez.png" width="671" height="284" alt=""/></a></p>
+                  <p>&nbsp;</p>
+                  <p><strong>每月均会提交会议论文至不同出版社出版，与多家世界知名出版集团建立了良好的合作关系，<br>如IEEE Press, IEEE CS CPS, Springer, Elsevier, IOP, Academic Press, ASME, American Scientific Publishing, SPIE, CRC Press / Balkema, DEStech Publications, TTP and Atlantis Press等，<br>且可推荐优秀学术论文至知名国际期刊发表</strong>。</p>
+                  <h3>Call for papers :</h3>
+                  <p>Introduction: sconf we have engaged in call for papers (journals) for a long time, can more understand the authors' needs and provide better service (concentrate on the global professional academic strength, committed to the transmission of science and technology information and scholars research communication) </p>
+                  <div>快速出版 优质见刊 确保检索<strong>CPCI (ISTP), EI (Compendex), Scopus (Elsevier), Inspec (IET) </strong></div>
+                  <p>版面费费用可以公对公 对私缴费，包含版面费发票和论文集纸质版<br>
+                     检索查询（纸质检索证明开具) 发票事项 期刊论文集（仅限国外期刊)  论文翻译<br></p>
+                  </p>
+                  <img src="image/pay1.jpg" width="333" height="26" alt=""/>
+                  <p>&nbsp;</p>
+                  <p><img src="image/ev-blog-header.jpg" width="494" height="100" alt=""/></p>
+                  <p><img src="image/wok-personalizehdr.jpg" width="493" height="142" alt=""/></p>
+                  <p>&nbsp;</p>
+                  <p><a href="http://cn.cfp.edu.pl/ietrcenter/"><img src="image/hezuo2.png" width="675" height="312" alt=""/></a></p>
+                  <p><a href="http://cn.cfp.edu.pl/ietrcenter/"></a></p>
+                  <p><a href="http://cn.cfp.edu.pl/ietrcenter/" title="exhibitors"></a></p>
+                  <p>&nbsp;</p>
+                  <p><a href="http://cn.cfp.edu.pl/ietrcenter/" title="exhibitors"></a></p>
+                  <p>&nbsp;</p>
+                  <hr>                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+			      <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+			      <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+			      <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+			      <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+			      <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+			      <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+			      <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+			      <p>&nbsp;</p>                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+			      <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+			      <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+			      <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+			      <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+			      <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+			      <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+			      <p>&nbsp;</p>                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+			      <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+			      <p>&nbsp;</p>
+
+                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+			      <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+              </div>
+		  </div>
+			<p><strong>如果有重要事宜 请联系</strong></p>
+			<DIV> 
+			  <p><strong>skyash@i.shu.edu.cn yaoyun@ruc.edu.cn或1422679111@qq.com</strong><br>
+			投稿的邮件24小时内没有回复 请抄送到Email: <a href="mailto:1422679111@qq.com">1422679111@qq.com</a></p>
+			  <p><font color="darkblue"> | 会议信息关注：</font><img src="image/gwang.png" width="35" height="24" alt=""/></p>
+			  <p>Website：<a href="http://cn.cfp.edu.pl/ietrcenter/" target="_blank">http://cn.cfp.edu.pl/ietrcenter/</a> <br>
+		      </p>
+			  <p>&nbsp;</p>
+		</DIV>
+			<p><a href="http://scima.sci.ajournals.org/" target="_blank"><img src="image/scima.png" width="662" height="163" /></a> 
+			<strong><font color="indigo"><font size="3">Basic & Clinical Pharmacology & Toxicology</strong>
+			SCI期刊影响因子：3.1左右<br>
+            检索类型为：Meeting Abstract<br>
+            征稿范围：医学工程，健康，环保，医药，生物，卫生相关的各学科 </font></font><br>
+            Website：<a href="http://scima.sci.ajournals.org/" target="_blank">http://scima.sci.ajournals.org/</a></strong>           
+	    <p>            
+		<p><a href="https://ietr.edu.gr/forum/forum.php"><img src="image/aedda98f2b8c862f1b2d186701125398_zhongwei.jpg" width="655" height="177" alt=""/></a>
+	    <p><strong>英文普刊征稿        
+		</strong>
+	    -<a href="https://ietr.edu.gr/forum/forum.php">https://ietr.edu.gr/forum/forum.php</a>
+	    <p>        
+		<p>            
+	    <p>            
+			<p><strong><font color="darkblue"><font size="5">国际SCI期刊 (EI/SSCI)</font></font></strong></p>
+			<p><strong>SCI期刊-经济管理大类<br>
+		    检索类别：SCI 检索 （占正刊期卷号的特刊）<br>
+		    IF：1.6-1.9<br>
+		    JCR分区：2-3区 （中科院4区）<br>
+		    Scope：电子商务，经济管理，数据经济，算法<br>
+		    截稿时间：6月30日<br>
+		    录用时间：投稿后1-3个月左右<br>
+		    Online时间：录用完成出版社流程后即出版<br>
+		    其他要求：10-12页<br>
+		    征稿信息：http://ietr.edu.gr/forum/portal.php<br>
+		    http://en.researchi.org/archives/249</strong></p>
+			<p><strong>检索类别：SCI/EI检索（Springer期刊）<br>
+		    JCR分区：4区 （中科院4区） IF：0.4-0.6<br>
+		    Scope：物联网、算法、机器自动化、机器学习等方向均可<br>
+		    费用：费用2.1w（2.3w含发票）<br>
+		    截稿时间：2018年6月22日<br>
+		    录用时间：投稿后1-2个月左右<br>
+		    Online时间：录用完成出版社流程后即出版<br>
+		    纸质要求：8页左右<br>
+		    投稿邮箱：skyash@163.shu.edu.cn<br>
+		    （邮件备注：物联网、算法、机器自动化、机器学习等方向均可+SCI期刊投稿）<br>
+		    缴费版面费用— 告知刊物信息（核实sci期刊信息）— 投稿 — 安排审稿人 — 提交审稿意见 — 提交最终稿件 — 录用 — 刊出 Online 上线</strong></p>
+			<p><strong>1.推荐安排发的SCI期刊在最新的SCI目录里。注册当天可以下载一份SCI目录。<br>
+		    2.文章没有刊出或者被出版社拒稿 退全额费用。<br>
+		    投稿邮箱：skyash@163.shu.edu.cn<br>
+		    征稿信息：http://en.researchi.org/archives/227</strong></p>
+			<p><strong>工程技术-计算机：人工智能检索类别：SSCI, SCI, EI 三检索<br>
+		    IF：1.0-1.3<br>
+		    JCR分区：3区 （中科院4区）<br>
+		    截稿时间：10个指标满了即截稿<br>
+		    录用时间：投稿后1-3个月左右<br>
+		    Online时间：录用完成出版社流程后即出版<br>
+		    其他要求：8-12页<br>
+		    Website：https://ietr.edu.gr/forum/portal.php<br>
+		    http://en.researchi.org/archives/244<br>
+		    费用：3.5w（3.8w）</strong></p>
+			<p>&nbsp;</p>
+			<p><strong>征稿-Special Journal Issues<br>
+		    检索类别：SCI检索–正刊<br>
+		    IF: 0.7-1.0<br>
+		    JCR分区：3区（中科院4区）<br>
+		    Scope: 物理学，声学，光学等方向均可 (方向严格)</strong></p>
+			<p><strong>SCI 检索 投稿后1-1.5个月左右可以录用，<br>
+			  期刊社官网投稿系统可以查稿，<br>
+			  10月份左右出版，共计可以录用30篇。<br>
+			  版面费用: 3.1w</strong></p>
+			<p><strong>声学，天体物理学，<br>
+			  原子和分子物理学，<br>
+			  生物与医学物理学，<br>
+			  复杂网络，社会和经济物理学，<br>
+			  计算物理学，凝聚态物理，<br>
+			  宇宙学与引力，流体力学，<br>
+			  地球物理学，纳米物理学，<br>
+			  光学与激光，粒子与核物理，<br>
+			  等离子体物理，统计与非线性物理，<br>
+			  表面物理，理论与数学物理<br>
+			  上述主题相关的理论以及应用方面的文章均可</strong></p>
+			<p><strong>通信网络 – 软件工程<br>
+			  期刊 JCR2区, 中科院3区影响，影响因子2.06， SCI EI 双检索<br>
+			  18年5月Online EI检索， 9月份正式出版 SCI检索<br>
+			  征稿范围：<br>
+			  集群计算 ，通信网络， 软件工程<br>
+			  云物联网，大数据和云计算，物联网，计算机应用</strong></p>
+			<p><strong>物流相关-交通工程<br>
+			  检索类别：SCI,EI双检索期刊<br>
+			  国内分区：JCR 3区  中科院4区<br>
+			  影响因子：1.5-1.7<br>
+			  主题：征稿方向：物流相关（IoT、云计算、大数据，智慧物流，政策）、交通工程，运输工程<br>
+			  截稿时间：2018年3月31日（第一批）、2018年10月21日（第二批）<br>
+			  见刊时间：2018年9-10月份（第一批）</strong></p>
+		<p><strong>水资源相关<br>
+			  主题： 海水淡化和水处理，环境材料相关，环境管理相关，水资源相关<br>
+			  检索类别：SCI检索期刊<br>
+			  国内分区：JCR 2区 中科院3区<br>
+			  影响因子：1.4-2.0<br>
+			  截稿时间：2018年3月31日<br>
+			  出版时间：2018年5-7月份</strong></p>
+			<p>&nbsp;</p>
+			<p><strong>欧洲材料类EI期刊简介<br>
+		    期刊简介：EI期刊，JA，欧洲期刊，季刊，每期文章共约20-25篇，其中一大半以上来自国外作者(为了保护注册作者利益，会务组不再公布期刊名称，下同)<br>
+		    审稿周期：1周左右<br>
+		    发表周期：现可安排2018年第3期，2018年9月底正式出版<br>
+		    征稿数量：6篇。有纸质期刊，2018年发表的第1期已经全部EI检索，第2期6月底见刊<br>
+		    征稿范围：材料相关领域均可。</strong></p>
+			<p> <strong><br>
+		    综合类SCIE和EI双目录期刊征稿（本期截稿时间6月05日）<br>
+		    期刊简介： SCIE目录期刊，期刊无任何会议信息。<br>
+		    影响因子：0.5左右<br>
+		    征稿范畴：不限制方向，理工类的主题均可。<br>
+		    发表周期：2018年9月份左右出版。投稿请注明“综合类SCIE投稿”</strong></p>
+			<p><strong>交通类SCI,EI双目录期刊(本刊指标已用完)<br>
+		    期刊简介： 交通类SCI,EI双目录期刊，期刊无任何会议信息。<br>
+		    影响因子：1.2左右，JCR 3区，中科院4区<br>
+		    征稿范畴：交通运输工程，智能交通，智慧物流、物流基础设施（IoT、云计算、大数据）等方向<br>
+		    发表周期：预计2018年10月左右发表。投稿请注明“交通类SCI投稿”</strong></p>
+			<p><strong>计算机和通信类SCIE目录期刊征稿<br>
+		    期刊简介：Wiley出版，SCIE目录期刊，期刊无任何会议信息。<br>
+		    影响因子：1.2左右，JCR 3区，中科院大区四区，小区3区<br>
+		    征稿范畴：计算方法编程环境、操作系统、工具、并发语言、编译器、并行与分布式计算等计算机与通信相关领域大类的即可。<br>
+		    发表周期：4-6个月左右。投稿请注明“计算机类JCR3区SCIE投稿”</strong></p>
+			<p><strong>计算机和通信类SCIE目录期刊征稿<br>
+		    期刊简介：SCIE目录期刊，期刊无任何会议信息。<br>
+		    影响因子：SCI期刊， JCR一区，中科院三区， CCF推荐期刊，影响因子大于3.0<br>
+		    征稿范畴：通信类及计算机大类的即可。<br>
+		    发表周期：预计2018年年底 或者19年年初左右出版。投稿请注明“计算机JCR一区SCIE投稿”</strong></p>
+			<p>Website：<a href="https://ietr.edu.gr/forum/forum.php">https://ietr.edu.gr/forum/forum.php</a><br>
+			  <strong>国际SCI期刊-IF 1.0以上 30篇 期刊议题：纤维聚合物、生物高分子、纤维产品及其制造、纺织产品、纺织技术,改性聚合物，纤维素衍生物<br data-filtered="filtered">
+		      国际SCI期刊-智能信息处理、计算机工程杂志   月刊  专刊（占正刊版面）  Impact Factor :2.4以上  中科院分类为二区  <br data-filtered="filtered">
+		      国际SCI期刊-图像处理、模式识别、人工智能工程杂志    双月刊   正刊发表   中科院分类为四区 Impact Factor :0.9左右   期刊质量好，稳定EI、SCI双检索杂志；<br data-filtered="filtered">
+		      国际SCI期刊-大数据杂志   季刊  专刊（占正刊版面）  Impact Factor :2.0以上  中科院分类为三区（年底左右可以进入中科院二区）<br data-filtered="filtered">
+		      国际SCI期刊-计算机、物联网期刊杂志   月刊  专刊（占正刊版面）  Impact Factor :0.9以上  中科院分类为四区  <br data-filtered="filtered">
+		      国际SCI期刊-无线通信与网络处理  月刊 专刊（占正刊版面） Impact Factor :0.70以上 中科院分类为四区   新一轮的征稿28篇<br data-filtered="filtered">
+		      国际SCI期刊-多媒体与图像处理   专刊（占正刊版面） 月刊  Impact Factor :1.30以上 中科院分类为三区  ；2017年新一轮的征稿30篇<br data-filtered="filtered">
+		      国际SCI期刊-能源科学工程杂志 正刊发表 月刊 Impact Factor: 2.4以上 中科院二区<br data-filtered="filtered">
+		      国际SCI期刊-先进材料科学工程杂志  月刊 正刊发表 中科院分类为二区 Impact Factor :1.8以上；<br data-filtered="filtered">
+		      国际SCI期刊-水研究与水科学技术杂志 正刊 季刊  Impact Factor：0.5以上 中科院分类为四区<br data-filtered="filtered">
+		      国际SCI期刊-农学与植物学杂志  正刊 季刊 Impact Factor：0.35以上 中科院分类为四区  <br data-filtered="filtered">
+		      国际SCI期刊-机械力学工程杂志  正刊发表  双月刊    Impact Factor :0.2以上<br data-filtered="filtered">
+		      国际SCI期刊-气象与水文国际期刊  月刊  正刊发表  Impact Factor :0.2以上 中科院分类为四区<br data-filtered="filtered">
+		      国际SCI期刊-土木、交通规划杂志 正刊发表  中科院分类为4区 双月刊 Impact Factor :0.5以内<br data-filtered="filtered">
+		      国际SCI期刊-分析化学杂志  月刊 正刊发表  Impact Factor :0.50左右 中科院分类为四区<br data-filtered="filtered">
+		      国际SCI期刊-复合材料科学与工程杂志  季刊  正刊发表 Impact Factor :0.5左右；<br data-filtered="filtered">
+		      国际SCI期刊-物理与化学工程杂志 双月刊  正刊发表 中科院分类为4区   Impact Factor :0.5以内；<br data-filtered="filtered">
+		      国际SCI期刊-低温科学杂志 正刊   Impact Factor :0.9左右 双月刊 中科院分类为4区<br data-filtered="filtered">
+		      国际SCI期刊-高分子科学与应用化学   正刊发表  月刊　Impact Factor :0.8以上   </strong></p>
+			<p>&nbsp;</p>
+			<p><strong>国际SCI期刊源医学、药学列表：<br data-filtered="filtered">
+			  国际SCI期刊-期刊议题：外科手术，妇科，泌尿学科，肠胃病科，神经外科，耳喉鼻科，心脏手术， 学和放射学（2017年8月1日新增）<br data-filtered="filtered">
+			  国际SCI期刊-微创技术方面的 10篇 检索稳定（2017年8月1日新增）<br data-filtered="filtered">
+			  国际SCI期刊-医药学工程杂志  增刊 （占正刊版面） 双月刊  Impact Factor :0.60以上 见刊时间确定录用后1个月左右见刊  此期刊检索快，录用率高，见刊快；中科院四区<br data-filtered="filtered">
+			  国际SCI期刊-神经科学与脑神经工程杂志  季刊  正刊发表  Impact Factor :0.7以上  中科院分类为四区  确定录用后及时安排见刊发表 ；<br data-filtered="filtered">
+			  国际SCI期刊源-环境化学、毒理学科学杂志 正刊发表 双月刊 Impact Factor：0.6以上<br data-filtered="filtered">
+			  国际SCI期刊-西方医学杂志  月刊  正刊发表 Impact Factor :0.5以内  中科院分类为4区  可以加急审稿，录用，见刊快发表，征稿30篇  <br data-filtered="filtered">
+			  国际SCI期刊-医药科学杂志  月刊 正刊发表   Impact Factor :0.6以上  中科院分为4区  可以加急审稿，见刊发表<br data-filtered="filtered">
+			  国际SCI期刊源- 细胞生理学和生物化学 正刊发表 Impact Factor：3.5以上  中科院2区<br data-filtered="filtered">
+			  国际SCI期刊-环境微生物学杂志   正刊  中科院分类为1区  月刊  Impact Factor :6.2以上  <br data-filtered="filtered">
+			  国际SCI期刊-环境微生物报告杂志  正刊   中科院分类为2区  双月刊  Impact Factor :3.2以上<br data-filtered="filtered">
+			  国际SCI期刊-微生物生物技术  正刊  中科院分类为3区  月刊  Impact Factor :3.0以上  <br data-filtered="filtered">
+			  国际SCI期刊-细胞生理学、生物化学杂志  正刊  中科院分类为3区  月刊  Impact Factor :2.8以上<br data-filtered="filtered">
+			  国际SCI期刊-生物化学杂志 正刊   中科院分类为4区 月刊   Impact Factor :1.3以上<br data-filtered="filtered">
+		    国际SCI期刊-心脏和血管疾病杂志  正刊  中科院分类为4区 双月刊 Impact Factor :0.5以内</strong></p>
+			<p><strong>国际EI期刊-计算科学与工程杂志  季刊  正刊 EI检索正常 <br>
+		    国际EI期刊-计算机科学与自动化控制杂志 双月刊   EI正刊 EI检索正常 <br>
+		    国际EI期刊-生物技术与生物科学杂志  月刊  正刊  确定录用后就可以见刊  征稿35篇<br>
+		    国际EI期刊-生物材料、生物医学工程杂志 月刊  正刊  确定录用后就可以见刊  征稿35篇<br>
+		    国际EI期刊-纳米科学、纳米技术工程杂志  双月刊 正刊  统一提交以后3个月左右见刊<br>
+		    国际EI期刊-传感器网络杂志  月刊   正刊  EI检索正常 统一提交后4个月左右见刊<br>
+		    国际EI期刊-生物医学科学杂志  正刊  统一提交以后3个月见刊 征稿20篇 <br>
+		    国际EI期刊-食品科学杂志      正刊  统一提交以后3个月见刊 征稿25篇 <br>
+		    国际EI期刊-生物化学杂志   正刊  统一提交以后3个月见刊 征稿28篇 <br>
+		    国际EI期刊-生物信息学与技术杂志   正刊  统一提交以后3个月见刊 征稿28篇 <br>
+		    国际EI期刊-分子生物学杂志  正刊 统一提交以后 3个月见刊  征稿20篇<br>
+		    国际EI期刊-信息科学杂志  季刊  正刊    EI检索正常<br>
+		    国际EI期刊-电子电气工程杂志 月刊  正刊发表 3个月见刊 征稿28篇</strong></p>
+			<p><strong><br>
+		    </strong></p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+	  </div>
+	</div>
+<!-- ________________________LATEST CARS SECTION _______________________-->
+<div class="latestcars">
+<h1 class="text-center"><strong><a href="http://ietr.edu.gr/forum/forum.php" target="_blank">International Engineering and Technology Research Center</a></strong></h1>
+	<h1 class="text-center"><strong><a href="http://rces.sconf.org/" target="_blank">Research Center of Engineering and Science</a></strong></h1>
+	<ul class="nav nav-tabs navbar-left latest-navleft">
+	  <li data-filter=".RECENT" role="presentation"></li>
+		<li data-filter=".POPULAR" role="presentation"></li>
+		<li  role="presentation"></li>
+		<li data-filter=".HPRICE" role="presentation"></li>
+		<li id="hideonmobile">
+    </ul>
+</div>
+<br>
+<br>
+<!-- ________________________Latest Cars Image Thumbnail________________-->
+	<div class="grid">
+	  <div class="row"></div>
+	</div>
+<!-- _______________________________News Letter ____________________--><!-- ______________________________________________________Bottom Menu ______________________________-->
+	<div class="bottommenu"><br>
+		 <div>
+<a href="https://ietr.edu.gr/forum/forum.php" target="_blank"><img src="https://s04.flagcounter.com/map/DkAB/size_m/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" width="359" height="169" border="0"></a>
+<a href="http://webscan.360.cn/index/checkwebsite/url/cn.cfp.edu.pl"><img border="0" src="http://webscan.360.cn/img/logo_verify.png"/></a>
+
+		<img src="image/A1.gif" width="89" height="40" alt=""/>   
+		<img src="image/A3.gif" width="89" height="40" alt=""/>    <img src="image/A2.gif" width="89" height="40" alt=""/>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b19505f77338d80"></script>
+		<div class="featurecontant">
+		    <h1>&nbsp;</h1>
+		    <a target="_blank" href="http://cn.cfp.edu.pl/ietrcenter/">
+		      <button id="btnRM" onClick="rmtxt()">IETR</button>
+	        </a>
+		    <p><a target="_blank" href="https://www.paypal.me/ietr"><img src="http://www.researchi.org/image/payment_icons.gif" width="210" height="74"></a></p>
+	      </div>
+		
+			<div class="footer">
+				<div class="copyright">
+			   E-mail: info@ietr.edu.gr</div>
+				<div class="atisda">
+					 Designed by <a href="http://ietr.edu.gr/forum/forum.php" target="_blank">IETR</a> 
+				</div>
+			</div>
+	</div>
+</div>
+
+<script type="text/javascript" src="source/bootstrap-3.3.6-dist/js/jquery.js"></script>
+<script type="text/javascript" src="source/js/isotope.js"></script>
+<script type="text/javascript" src="source/js/myscript.js"></script> 
+<script type="text/javascript" src="source/bootstrap-3.3.6-dist/js/jquery.1.11.js"></script>
+<script type="text/javascript" src="source/bootstrap-3.3.6-dist/js/bootstrap.js"></script>
+</body>
+</html>
